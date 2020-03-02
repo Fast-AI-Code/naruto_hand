@@ -1,0 +1,5 @@
+data/*
+data/*/*.jpg
+*.jpg
+*.pth
+*.mp4
